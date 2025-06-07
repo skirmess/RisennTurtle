@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: RisennTurtle
+## Author: Sven Kirmess
+## Notes: Addon for Risenn
+## OptionalDeps:
+## Dependencies:
+## SavedVariables:
+## X-Website: https://github.com/skirmess/RisennTurtle
+RisennTurtle.lua
